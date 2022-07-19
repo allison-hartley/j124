@@ -11,6 +11,6 @@
 
 Employer | Job Description 
 ---------|-----------------
-Berkeley Imaging Systems Laboratory | * Magnetic Particle Imaging (MPI) is a pre-clinical tracer-based biomedical imaging method. * Worked on optimizing the best-resolution magnetic tracers in the world for super-resolution MPI. * Learned about signal processing and electronics.
-College Essay Consultant (self-employed) | * Provided in-depth feedback for university applicants on essay structure, clarity, and style. * Guided students through brainstorming, revisions, and self-reflection through 1-on-1 consulting appointments. 
-The Saratoga Falcon | * Directed 60-person staff as Editor-in-Chief * Edited hundreds of stories in total for clarity, flow, structure, and content * Initiated weekly MailChimp newsletter 
+Berkeley Imaging Systems Laboratory | * Magnetic Particle Imaging (MPI) is a pre-clinical tracer-based biomedical imaging method. <br>* Worked on optimizing the best-resolution magnetic tracers in the world for super-resolution MPI. <br>* Learned about signal processing and electronics.
+College Essay Consultant (self-employed) | * Provided in-depth feedback for university applicants on essay structure, clarity, and style. <br>* Guided students through brainstorming, revisions, and self-reflection through 1-on-1 consulting appointments. 
+The Saratoga Falcon | * Directed 60-person staff as Editor-in-Chief <br>* Edited hundreds of stories in total for clarity, flow, structure, and content <br>* Initiated weekly MailChimp newsletter 
