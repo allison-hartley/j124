@@ -1,7 +1,7 @@
 # Allison Hartley
 ## Bioengineer, journalist,  UC Berkeley student.
 
-![Allison Hartley headshot](https://user-images.githubusercontent.com/32043036/179860608-7651e2f4-9192-4743-b881-37051fbf4bc9.jpg)
+![Allison Hartley headshot. She is smiling at the camera wearing a green turtleneck and long earrings.](https://user-images.githubusercontent.com/32043036/179860608-7651e2f4-9192-4743-b881-37051fbf4bc9.jpg)
 
 ## Skills
 1. MATLAB
